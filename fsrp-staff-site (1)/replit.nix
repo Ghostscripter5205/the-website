@@ -1,1 +1,0 @@
-packages = [ pkgs.nodejs pkgs.nodePackages.npm ];
